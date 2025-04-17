@@ -114,12 +114,6 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 **Note:**
 - Replace `yourusername` in the clone URL with your actual GitHub username or organization.
 - For NetSuite deployment, copy relevant scripts to your NetSuite File Cabinet and deploy via SuiteScript.
